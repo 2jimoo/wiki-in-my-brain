@@ -1,4 +1,4 @@
-# Meterials
+# Materials
 - https://docs.google.com/document/d/1zOlrYjEr4xB5BcGCuK_nOtr8nfW5V8C4Q5niLBWGk3o/edit?usp=drive_link
 
 # Content
