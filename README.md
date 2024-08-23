@@ -26,7 +26,7 @@
         
         
 ## [study-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log)
-### backend
+### [backend](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/backend)
 - System architecture
     - ***[TODO]*** System Design Interview - An Insider's Guide (Volume 1)
     - ***[TODO]*** System Design Interview - An Insider's Guide (Volume 2)
