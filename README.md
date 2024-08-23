@@ -42,7 +42,7 @@
 - [Adaptation to Dynamic Corpus](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/information_retrieval)
     - IR Tutorial 2024 
     - L^2R 
-- etc.
+- [etc.](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/etc)
     - The Impact of Data on AI Ethics
     - How might embedded AI impact human cohesion?
     
