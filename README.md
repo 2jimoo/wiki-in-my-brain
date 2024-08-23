@@ -1,7 +1,7 @@
 # wiki-in-my-brain
 
 ## [work-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/work-log)
-- ***[TODO]*** Daily log/feedback/review
+- ***[TODO]*** Daily log/feedbacks/reviews
 - ***[TODO]*** DDD, Hexagonal architecture
   - 이벤트 소싱과 마이크로 서비스 아키텍쳐
   - SpringBoot
@@ -32,7 +32,7 @@
         - Design Dataset
     - Papers
 - ***[TODO]*** Retrospective and Feedbacks
-    - How to understand a paper deeply? How to write a good paper?
+    - How to understand a paper deeply? How to write a high-quality paper?
         
         
 ## [study-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log)
