@@ -1,6 +1,7 @@
 # wiki-in-my-brain
 
 ## [work-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/work-log)
+- ***[TODO]*** Work daily log
 - Kafka
   - ***[TODO]*** 실전 카프카 개발부터 운영까지
 - Kubernetes
@@ -9,7 +10,10 @@
   - ***[TODO]*** 이벤트 소싱과 마이크로 서비스 아키텍쳐
 - ***[TODO]*** OAuth
 - ***[TODO]*** SpringBoot
-- ***[TODO]*** Work daily log
+- ***[TODO]*** MongoDB
+- ***[TODO]*** DevOps
+  - ArgoCD, github actions, ansible, terraform, ....
+  
 
 
 ## [research-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/research-log)
