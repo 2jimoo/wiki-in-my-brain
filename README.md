@@ -53,9 +53,6 @@
     
 ## [interview](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview)
 - [model-coding](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview/model-coding)
-  - Coursera
-  - https://github.com/alirezadir/Machine-Learning-Interviews
-  - Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them 
 - ps-coding
   - leetcode
 - serving system architecture
