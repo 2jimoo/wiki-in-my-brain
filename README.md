@@ -52,7 +52,7 @@
     - The Impact of Data on AI Ethics
     - How might embedded AI impact human cohesion?
     
-### data
+### [data](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/etc)
 - Datamesh
     - ***[TODO]*** zhamak dehghani data mesh: delivering data-driven value at scale
 - Data Science
