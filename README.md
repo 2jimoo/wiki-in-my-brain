@@ -31,6 +31,8 @@
         - Design Settings
         - Design Dataset
     - Papers
+- ***[TODO]*** Retrospective and Feedbacks
+    - How to understand a paper deeply? How to write a good paper?
         
         
 ## [study-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log)
