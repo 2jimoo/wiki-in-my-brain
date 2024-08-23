@@ -1,8 +1,8 @@
 # Repository
 - https://github.com/2jimoo/selfcheckgpt
-# Meterials
+# Materials
 - https://drive.google.com/file/d/10MnN6i49k-wkT9cIiU5bjWkDQNLFzOTO/view?usp=drive_link
----
+--
 
 ## Index
 해당 논문을 선정한 목적을 말씀드리고, 논문에서 제안한 방법론을 간략히 소개하겠습니다. 기존 방식을 베이스라인으로 저희 개선안을 비교한 실험 데이터를 보여드리고 결과 분석 및 추가 연구 방향을 제시하는 것으로 마무리하겠습니다.
