@@ -1,13 +1,13 @@
 # wiki-in-my-brain
 
-## work-log
+## [work-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/work-log)
 - Kafka
 - Kubernetes
 - DDD, Hexagonal architecture
 - OAuth
 
 
-## research-log
+## [research-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/research-log)
 - Unsupervised Contrastive learning via streaming clustering
     - Premilinaries
         - Adaptive threshold
@@ -24,14 +24,14 @@
         - to-do
         
         
-## study-log
+## [study-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log)
 ### backend
 - System architecture
     - System Design Interview - An Insider's Guide (Volume 1)
     - System Design Interview - An Insider's Guide (Volume 2)
 - Design
 
-### machine-learning
+### [machine-learning](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview)
 - LLM Application
     - Seminar
     - OpenSource Contribution
