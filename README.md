@@ -75,7 +75,7 @@
   - ***[TODO]*** algorithm
   - ***[TODO]*** datastructure
   - ***[TODO]*** problem list 
-- serving system architecture
+- system architecture
     - ***[TODO]*** Machine Learning System Design Interview 
     - ***[TODO]*** Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them
     - ***[TODO]*** 머신러닝 엔지니어링 인 액션
