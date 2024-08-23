@@ -38,7 +38,7 @@
 - Hallucination
     - [SelfCheckGPT](https://github.com/2jimoo/wiki-in-my-brain/blob/main/study-log/hallucination/selfcheckgpt_advanced_experiment.md)
 - Reinforcement Learning
-    - MAML
+    - [MAML](https://github.com/2jimoo/wiki-in-my-brain/blob/main/study-log/reinforcement_learning/MAML.md)
 - Adaptation to Dynamic Corpus
     - IR Tutorial 2024 
     - L^2R 
