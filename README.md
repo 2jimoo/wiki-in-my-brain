@@ -31,7 +31,7 @@
     - System Design Interview - An Insider's Guide (Volume 2)
 - Design
 
-### [machine-learning](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview)
+### machine-learning
 - LLM Application
     - Seminar
     - OpenSource Contribution
@@ -51,7 +51,7 @@
     - zhamak dehghani data mesh: delivering data-driven value at scale
     
     
-## interview
+## [interview](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview)
 - model-coding
 - ps-coding
 - serving system architecture
