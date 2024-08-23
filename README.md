@@ -43,6 +43,7 @@
     - ***[TODO]*** 소프트웨어 개발의 진주 
 - Coding
     - ***[TODO]*** 타입으로 견고하게, 다형성으로 유연하게
+    - ***[TODO]*** 켄트 벡의 TidyFirst?
 - CS
     - ***[TODO]*** 컴퓨터 밑바닥의 비밀
 
@@ -81,3 +82,5 @@
     - ***[TODO]*** Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them
     - ***[TODO]*** 머신러닝 엔지니어링 인 액션
     - ***[TODO]*** 머신러닝 시스템 설계
+- interview
+    -  ***[TODO]*** 개발자 기술 면접노트
