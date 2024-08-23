@@ -31,18 +31,18 @@
     - System Design Interview - An Insider's Guide (Volume 2)
 - Design
 
-### machine-learning
-- [LLM Application](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/LLM_application)
+### [machine-learning](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/machine-learning)
+- LLM Application
     - Seminar
     - OpenSource Contribution
 - Hallucination
-    - [SelfCheckGPT](https://github.com/2jimoo/wiki-in-my-brain/blob/main/study-log/hallucination/selfcheckgpt_advanced_experiment.md)
+    - SelfCheckGPT
 - Reinforcement Learning
-    - [MAML](https://github.com/2jimoo/wiki-in-my-brain/blob/main/study-log/reinforcement_learning/MAML.md)
-- [Adaptation to Dynamic Corpus](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/information_retrieval)
+    - MAML
+- Adaptation to Dynamic Corpus
     - IR Tutorial 2024 
     - L^2R 
-- [etc.](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/etc)
+- etc.
     - The Impact of Data on AI Ethics
     - How might embedded AI impact human cohesion?
     
