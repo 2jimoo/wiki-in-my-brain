@@ -8,6 +8,8 @@
 - DDD, Hexagonal architecture
   - ***[TODO]*** 이벤트 소싱과 마이크로 서비스 아키텍쳐
 - ***[TODO]*** OAuth
+- ***[TODO]*** SpringBoot
+- ***[TODO]*** Work daily log
 
 
 ## [research-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/research-log)
