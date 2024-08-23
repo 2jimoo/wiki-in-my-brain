@@ -68,9 +68,13 @@
     
 ## [interview](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview)
 - [model-coding](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview/model-coding)
+  - coursera
+  - take-home assignment
+  - live coding
 - [ps-coding](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview/ps-coding)
   - ***[TODO]*** algorithm
-  - ***[TODO]*** datastructure 
+  - ***[TODO]*** datastructure
+  - ***[TODO]*** problem list 
 - serving system architecture
     - ***[TODO]*** Machine Learning System Design Interview 
     - ***[TODO]*** Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them
