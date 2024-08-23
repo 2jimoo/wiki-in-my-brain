@@ -2,16 +2,16 @@
 
 ## [work-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/work-log)
 - ***[TODO]*** Daily log/feedback/review
-- DDD, Hexagonal architecture
-  - ***[TODO]*** 이벤트 소싱과 마이크로 서비스 아키텍쳐
-  - ***[TODO]*** SpringBoot
-- Security
-  -  ***[TODO]*** OAuth
-- Infrastructure
+- ***[TODO]*** DDD, Hexagonal architecture
+  - 이벤트 소싱과 마이크로 서비스 아키텍쳐
+  - SpringBoot
+- ***[TODO]*** Security
+   OAuth
+- ***[TODO]*** Infrastructure
   - Kafka
-    - ***[TODO]*** 실전 카프카 개발부터 운영까지
+    - 실전 카프카 개발부터 운영까지
   - Kubernetes
-    - ***[TODO]*** 한 권으로 배우는 도커&쿠버네티스
+    - 한 권으로 배우는 도커&쿠버네티스
   - MongoDB
 - ***[TODO]*** DevOps
   - ArgoCD, github actions, ansible, terraform, ....
