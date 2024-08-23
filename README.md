@@ -53,7 +53,7 @@
     
 ## [interview](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview)
 - [model-coding](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview/model-coding)
-- ps-coding
+- [ps-coding](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview/ps-coding)
   - leetcode
 - serving system architecture
     - Machine Learning System Design Interview 
