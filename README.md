@@ -1,16 +1,18 @@
 # wiki-in-my-brain
 
 ## [work-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/work-log)
-- ***[TODO]*** Work daily log
-- Kafka
-  - ***[TODO]*** 실전 카프카 개발부터 운영까지
-- Kubernetes
-  - ***[TODO]*** 한 권으로 배우는 도커&쿠버네티스
+- ***[TODO]*** Daily log/feedback/review
 - DDD, Hexagonal architecture
   - ***[TODO]*** 이벤트 소싱과 마이크로 서비스 아키텍쳐
-- ***[TODO]*** OAuth
-- ***[TODO]*** SpringBoot
-- ***[TODO]*** MongoDB
+  - ***[TODO]*** SpringBoot
+- Security
+  -  ***[TODO]*** OAuth
+- Infrastructure
+  - Kafka
+    - ***[TODO]*** 실전 카프카 개발부터 운영까지
+  - Kubernetes
+    - ***[TODO]*** 한 권으로 배우는 도커&쿠버네티스
+  - MongoDB
 - ***[TODO]*** DevOps
   - ArgoCD, github actions, ansible, terraform, ....
   
@@ -67,7 +69,8 @@
 ## [interview](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview)
 - [model-coding](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview/model-coding)
 - [ps-coding](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview/ps-coding)
-  - ***[TODO]*** leetcode
+  - ***[TODO]*** algorithm
+  - ***[TODO]*** datastructure 
 - serving system architecture
     - ***[TODO]*** Machine Learning System Design Interview 
     - ***[TODO]*** Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them
