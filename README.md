@@ -32,7 +32,7 @@
 - Design
 
 ### machine-learning
-- LLM Application
+- [LLM Application](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/LLM_application)
     - Seminar
     - OpenSource Contribution
 - Hallucination
