@@ -36,7 +36,7 @@
     - Seminar
     - OpenSource Contribution
 - Hallucination
-    - SelfCheckGPT
+    - [SelfCheckGPT](https://github.com/2jimoo/wiki-in-my-brain/blob/main/study-log/hallucination/selfcheckgpt_advanced_experiment.md)
 - Reinforcement Learning
     - MAML
 - Adaptation to Dynamic Corpus
