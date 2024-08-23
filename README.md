@@ -14,7 +14,7 @@
     - 한 권으로 배우는 도커&쿠버네티스
   - MongoDB
 - ***[TODO]*** DevOps
-  - ArgoCD, github actions, ansible, terraform, ....
+  - ArgoCD, github actions, ....
   
 
 
