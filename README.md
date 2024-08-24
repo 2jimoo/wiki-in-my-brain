@@ -41,16 +41,16 @@
         
 ## [study-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log)
 ### [backend](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/backend)
-- System architecture
-    - ***[TODO]*** System Design Interview - An Insider's Guide (Volume 1)
-    - ***[TODO]*** System Design Interview - An Insider's Guide (Volume 2)
-- Design
-    - ***[TODO]*** 소프트웨어 개발의 진주 
-- Coding
+- [System architecture](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/backend/architecture)
+    - System Design Interview - An Insider's Guide (Volume 1)
+    - System Design Interview - An Insider's Guide (Volume 2)
+- [Design](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/backend/design)
+    - 소프트웨어 개발의 진주 
+- [Coding](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/backend/coding)
     - 타입으로 견고하게, 다형성으로 유연하게
-    - ***[TODO]*** 켄트 벡의 TidyFirst?
-- CS
-    - ***[TODO]*** 컴퓨터 밑바닥의 비밀
+    - 켄트 벡의 TidyFirst?
+- [CS](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/backend/cs)
+    - 컴퓨터 밑바닥의 비밀
 
 ### [machine-learning](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/machine-learning)
 - LLM Application
