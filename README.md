@@ -87,5 +87,5 @@
     - Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them
     - 머신러닝 엔지니어링 인 액션
     - 머신러닝 시스템 설계
-- interview
+- [interview](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview/interview)
     -  개발자 기술 면접 노트
