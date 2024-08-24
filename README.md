@@ -1,24 +1,24 @@
 # wiki-in-my-brain
 
-## [work-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/work-log)
-- ***[TODO]*** Daily log/feedbacks/reviews
-- ***[TODO]*** DDD, Hexagonal architecture
+## work-log
+- Daily log/feedbacks/reviews
+- DDD, Hexagonal architecture
   - 이벤트 소싱과 마이크로 서비스 아키텍쳐
   - SpringBoot
-- ***[TODO]*** Security
-   OAuth
-- ***[TODO]*** Infrastructure
+- Security
+  - OAuth
+- Infrastructure
   - Kafka
     - 실전 카프카 개발부터 운영까지
   - Kubernetes
     - 한 권으로 배우는 도커&쿠버네티스
   - MongoDB
-- ***[TODO]*** DevOps
+- DevOps
   - ArgoCD, github actions, ....
   
 
 
-## [research-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/research-log)
+## research-log
 - Unsupervised Contrastive learning via streaming clustering
     - Premilinaries
       - Streaming Clustering
@@ -39,8 +39,8 @@
 - Retrospective and Feedbacks
         
         
-## [study-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log)
-### [backend](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/backend)
+## study-log
+### backend
 - [System architecture](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/backend/architecture)
     - System Design Interview - An Insider's Guide (Volume 1)
     - System Design Interview - An Insider's Guide (Volume 2)
@@ -67,13 +67,13 @@
     - The Impact of Data on AI Ethics
     - How might embedded AI impact human cohesion?
     
-### [data](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/etc)
+### data
 - Datamesh
     - ***[TODO]*** zhamak dehghani data mesh: delivering data-driven value at scale
 - Data Science
     - ***[TODO]*** 실무로 통하는 인과추론
     
-## [interview](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview)
+## interview
 - [model-coding](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview/model-coding)
   - coursera
   - take-home assignment
