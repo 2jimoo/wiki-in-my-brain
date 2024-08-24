@@ -22,13 +22,15 @@
 - Unsupervised Contrastive learning via streaming clustering
     - Premilinaries
       - Streaming Clustering
-        - Data Stream Clustering: A Review
-        - FEAC-Stream
-      - Contrastive Learning
+        - [Data Stream Clustering: A Review](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/Data_Stream_Clustering_A_Review.md)
+        - [FEAC-Stream](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/FEAC-Stream.md)
+      - [Negative Sampling](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/Negative_Sampling.md)
         - Contrastive learning with hard negative samples
         - Conditional Negative Sampling for Contrastive Learning of Visual Representations
     - Ideation
-        - Flowchart(logical/code)
+        - Flowchart
+            - logical
+            - code
     - Experiments
         - Check robustness of Basis
         - Design Settings
