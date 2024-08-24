@@ -8,7 +8,9 @@
   - Conditional Negative Sampling for Contrastive Learning of Visual Representations
 
 ## Ideation
-- Flowchart(logical/code)
+- Flowchart
+  - logical
+  - code
 
 ## Experiments
 - Check robustness of Basis
