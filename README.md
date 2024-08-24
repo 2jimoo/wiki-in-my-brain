@@ -19,11 +19,14 @@
 
 
 ## [research-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/research-log)
-- ***[TODO]*** Unsupervised Contrastive learning via streaming clustering
+- Unsupervised Contrastive learning via streaming clustering
     - Premilinaries
-        - Prototype-based clustering
-        - Contrastive Learning
-        - Streaming Clustering
+      - Streaming Clustering
+        - Data Stream Clustering: A Review
+        - FEAC-Stream
+      - Contrastive Learning
+        - Contrastive learning with hard negative samples
+        - Conditional Negative Sampling for Contrastive Learning of Visual Representations
     - Ideation
         - Flowchart(logical/code)
     - Experiments
@@ -31,7 +34,7 @@
         - Design Settings
         - Design Dataset
     - Papers
-- ***[TODO]*** Retrospective and Feedbacks
+- Retrospective and Feedbacks
         
         
 ## [study-log](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log)
