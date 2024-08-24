@@ -3,7 +3,7 @@
 - Streaming Clustering
   - Data Stream Clustering: A Review
   - FEAC-Stream
-- Contrastive Learning
+- Negative Sampling
   - Contrastive learning with hard negative samples
   - Conditional Negative Sampling for Contrastive Learning of Visual Representations
 
