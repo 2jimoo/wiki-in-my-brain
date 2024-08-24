@@ -69,9 +69,9 @@
     
 ### data
 - Datamesh
-    - ***[TODO]*** zhamak dehghani data mesh: delivering data-driven value at scale
+    - zhamak dehghani data mesh: delivering data-driven value at scale
 - Data Science
-    - ***[TODO]*** 실무로 통하는 인과추론
+    - 실무로 통하는 인과추론
     
 ## interview
 - [model-coding](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview/model-coding)
@@ -79,13 +79,13 @@
   - take-home assignment
   - live coding
 - [ps-coding](https://github.com/2jimoo/wiki-in-my-brain/tree/main/interview/ps-coding)
-  - ***[TODO]*** algorithm
-  - ***[TODO]*** datastructure
-  - ***[TODO]*** problem list 
+  - algorithm
+  - data structure
+  - problem list 
 - system architecture
-    - ***[TODO]*** Machine Learning System Design Interview 
-    - ***[TODO]*** Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them
-    - ***[TODO]*** 머신러닝 엔지니어링 인 액션
-    - ***[TODO]*** 머신러닝 시스템 설계
+    - Machine Learning System Design Interview 
+    - Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them
+    - 머신러닝 엔지니어링 인 액션
+    - 머신러닝 시스템 설계
 - interview
-    -  ***[TODO]*** 개발자 기술 면접노트
+    -  개발자 기술 면접 노트
