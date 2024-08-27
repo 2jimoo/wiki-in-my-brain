@@ -1,6 +1,7 @@
 [Tevatron, Trainer](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/library_code_review.md#tevatron-trainer)  
 [PreTrainedModel, AutoModel](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/library_code_review.md#pretrainedmodel-automodel)  
 [pickle](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/library_code_review.md#pickle)  
+[River]()
 
 ---
 
@@ -16,3 +17,8 @@
 # pickle
 - 파이썬 ***표준*** 라이브러리
 - 파이썬 객체를 직렬화(파일에 저장)하고 역직렬화(파일에서 읽어오기)하는 기능을 제공
+
+
+# River
+- Online처리 ML라이브러리
+- https://riverml.xyz/0.21.1/introduction/installation/
