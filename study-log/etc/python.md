@@ -1,5 +1,5 @@
 [@dataclass](https://github.com/2jimoo/wiki-in-my-brain/blob/main/study-log/etc/python.md#dataclass-1)  
-[object]()
+[object](https://github.com/2jimoo/wiki-in-my-brain/blob/main/study-log/etc/python.md#object)
 
 --- 
 
