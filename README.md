@@ -66,6 +66,7 @@
 - etc.
     - The Impact of Data on AI Ethics
     - How might embedded AI impact human cohesion?
+    - python
     
 ### data
 - Datamesh
