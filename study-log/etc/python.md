@@ -1,4 +1,6 @@
-[@dataclass]()
+[@dataclass](https://github.com/2jimoo/wiki-in-my-brain/blob/main/study-log/etc/python.md#dataclass-1)
+
+
 --
 # @dataclass
 - from dataclasses import dataclass
