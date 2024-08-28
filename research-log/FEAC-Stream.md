@@ -7,7 +7,7 @@
 ---
 
 # Overview
-- Fast Evolutionary Algorithms for Relational Clustering(FEAC)의 개선 버전
+- Fast Evolutionary Algorithms for Relational Clustering(FEAC)의 개선 버전(가변k)
 - 특징(Data Stream Clustering A Review참고)
   - Auto cluster count
   - Damped window
