@@ -9,8 +9,8 @@
   - Conditional Negative Sampling for Contrastive Learning of Visual Representations
 
 ## Ideation
-- Flowchart
-  - logical
+- Flowchart and Diagram
+  - ![Image Description](https://drive.google.com/uc?export=view&id=1uHnfeaFM_Kw6enVCZcyNC_sOn-KX2sIy)
 - Prototype code
   - https://github.com/2jimoo/prototype
 
