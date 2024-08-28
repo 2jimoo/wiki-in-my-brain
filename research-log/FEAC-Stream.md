@@ -1,7 +1,7 @@
-[Overview](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/FEAC-Stream.md#overview)  
-[3가지 컴포넌트로 구성](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/FEAC-Stream.md#3%EA%B0%80%EC%A7%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A1%9C-%EA%B5%AC%EC%84%B1)  
-[동작과정]()
-[FEAC]()
+- [Overview](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/FEAC-Stream.md#overview)  
+- [3가지 컴포넌트로 구성](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/FEAC-Stream.md#3%EA%B0%80%EC%A7%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A1%9C-%EA%B5%AC%EC%84%B1)  
+- [동작과정](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/FEAC-Stream.md#%EB%8F%99%EC%9E%91%EA%B3%BC%EC%A0%95)  
+- [FEAC]()
 
 
 ---
