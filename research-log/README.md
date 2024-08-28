@@ -14,7 +14,7 @@
 
 ## Experiments
 - Check robustness of each components
-- Check robustness of Basis
+- Check robustness of dasis
 - Design Settings
 - Design Dataset
 
