@@ -27,3 +27,12 @@
 - 진화 알고리즘 수행
   - 클러스터 중심 삭제 및 병합 과정(FEAC 참고)
   - Simplified Silhouette로 일정 범위 k중 품질 가장 좋은 값 선택
+ 
+
+# FEAC
+- Genotype encoding
+  - .
+- Local Search
+  - .
+- Mutation Operator
+  - .
