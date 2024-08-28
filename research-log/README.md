@@ -1,5 +1,4 @@
 # Unsupervised Contrastive learning via streaming clustering
-https://github.com/2jimoo/prototype
 
 ## Premilinaries
 - Streaming Clustering
@@ -12,9 +11,11 @@ https://github.com/2jimoo/prototype
 ## Ideation
 - Flowchart
   - logical
-  - code
+- Prototype code
+  - https://github.com/2jimoo/prototype
 
 ## Experiments
+- Check robustness of each components
 - Check robustness of Basis
 - Design Settings
 - Design Dataset
