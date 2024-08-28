@@ -38,9 +38,12 @@
  
 
 # FEAC
+- 클러스터 k개를 유지하면서 클러스터가 업데이트 됨
 - Genotype encoding
-  - .
+  - cluster prototype(medoids, relational centroids 등)을 인코딩한 것
+  - 아무튼 원형이 유전자형에 잘 저장되서, 나중에 원형 복원해서 해당 파티션을 복원하는 게 중요
 - Local Search
-  - .
+  - EAC에서 보통 5번 반복하면 종료해도 되더라..
 - Mutation Operator
-  - .
+  - MO1(제거할 클러스터 선택) 
+  - MO2(클러스터 분할)
