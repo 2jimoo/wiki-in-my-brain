@@ -1,7 +1,7 @@
 # Check List
 ### Youtube
-[ ] https://www.youtube.com/watch?v=tQ3raNz2Oc0
-[ ] https://www.youtube.com/watch?v=46dZH7LDbf8&t=232s
+[ ] https://www.youtube.com/watch?v=tQ3raNz2Oc0  
+[ ] https://www.youtube.com/watch?v=46dZH7LDbf8&t=232s  
 [ ] https://www.youtube.com/watch?v=21pmwl0hrME&t=72s
 [ ] https://www.youtube.com/watch?si=rKGoO3lPRm5Xejul&v=rw4s4M3hFfs&feature=youtu.be
 [ ] NeetCode
