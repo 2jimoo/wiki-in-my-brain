@@ -10,7 +10,7 @@
   - Converter<S,T> : Java <-> Java
   - Jackson Serializer/Deserializer: Java <-> JSON, XML
   - HttpMessageConverter: Java <-> Http
-  - HandlerMethodArgumentResolver: @RequestParam,@PathVariable <-> Controller parameter
+  - HandlerMethodArgumentResolver: @RequestParam,@PathVariable Controller parameter
 
 ### HandlerMethodArgumentResolver
 - **Spring MVC Controller에서 요청 처리 메서드의 파라미터**를 커스텀 방식으로 해석하고 바인딩하는 데 사용
