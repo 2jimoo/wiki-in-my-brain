@@ -1,0 +1,27 @@
+- HandlerMethodArgumentResolver
+- WebMvcConfigurer
+
+
+---
+
+# HandlerMethodArgumentResolver
+- Spring MVC에서 요청 처리 메서드의 파라미터를 커스텀 방식으로 해석하고 바인딩하는 데 사용
+- HandlerMethodArgumentResolver를 구현하여 @PathVariable에서 받은 값을 record로 변환하는 로직을 작성
+  - supportsParameter
+    - 파라미터 타입, 어노테이션 등 확인
+  - resolveArgument
+    - 조건이 만족되면 이 메서드에서 값을 변환하여 컨트롤러 메서드로 전달
+- WebMvcConfigurer 통해 Spring MVC에 등록
+
+# WebMvcConfigurer
+- Spring MVC의 기본 설정을 유지하면서 특정 기능을 추가하거나 기존 동작을 재정의
+  - addArgumentResolvers
+    - 컨트롤러 메서드의 파라미터 처리 방식
+  - addInterceptors
+    - 요청을 가로채어 요청 전후 처리
+  - configureMessageConverters(List<HttpMessageConverter<?>> converters)
+    - HTTP 요청과 응답을 변환하는 커스텀 메시지 컨버터
+  - addCorsMappings(CorsRegistry registry)
+    - 특정 도메인에서의 요청을 허용하거나 차단
+  - addResourceHandlers(ResourceHandlerRegistry registry)
+    - 정적 자원(이미지, CSS, JavaScript 파일 등)의 핸들러를 등록하여 특정 경로의 자원을 어떻게 제공할지 설정  
