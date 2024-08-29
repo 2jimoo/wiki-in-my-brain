@@ -1,4 +1,4 @@
-- Custom Req/Res Mapping
+- [Custom Req/Res Mapping](https://github.com/2jimoo/wiki-in-my-brain/blob/main/work-log/spring.md#%EC%9A%94%EC%95%BD)
   - HandlerMethodArgumentResolver
   - WebMvcConfigurer
   - HttpMessageConverter
