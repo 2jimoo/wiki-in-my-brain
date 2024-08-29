@@ -32,5 +32,7 @@
 -  @RequestBody와 @ResponseBody 어노테이션을 사용하여 JSON, XML, 텍스트 등 다양한 형식의 데이터를 객체로 변환하거나 객체를 특정 형식으로 변환
 
 # Jackson Serializer/Deserializer
-- 일반적으로 전체 HTTP 본문을 변환할 때 사용하는 Converter와 달리 바디의 일부 객체 매핑하려고 할 때
+- Converter와 다른 점?
+  - Converter<S, T>는 Spring의 타입 변환 API의 일부
+  - Jackson은 좀 더 넓게 Json과 java 객체사이
 - 컨트롤러에서 @RequestBody를 사용하여 자동으로 매핑된 객체를 처리
