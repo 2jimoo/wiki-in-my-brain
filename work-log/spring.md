@@ -1,6 +1,6 @@
 - HandlerMethodArgumentResolver
 - WebMvcConfigurer
-
+- HttpMessageConverter
 
 ---
 
@@ -25,3 +25,11 @@
     - 특정 도메인에서의 요청을 허용하거나 차단
   - addResourceHandlers(ResourceHandlerRegistry registry)
     - 정적 자원(이미지, CSS, JavaScript 파일 등)의 핸들러를 등록하여 특정 경로의 자원을 어떻게 제공할지 설정  
+
+# HttpMessageConverter
+- Spring MVC에서 HTTP 요청과 응답의 본문을 객체로 변환하는 데 사용되는 인터페이스
+-  @RequestBody와 @ResponseBody 어노테이션을 사용하여 JSON, XML, 텍스트 등 다양한 형식의 데이터를 객체로 변환하거나 객체를 특정 형식으로 변환
+
+# Jackson Serializer/Deserializer
+- 바디의 객체 매핑하려고 할 때
+- 컨트롤러에서 @RequestBody를 사용하여 자동으로 매핑된 객체를 처리
