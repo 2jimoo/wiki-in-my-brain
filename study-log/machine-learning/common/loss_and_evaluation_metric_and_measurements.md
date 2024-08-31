@@ -32,7 +32,11 @@ https://avalanche.continualai.org/from-zero-to-hero-tutorial/05_evaluation
 - 특정 태스크에서의 정확도 변화
 - FWT
   - Task A를 학습한 후 Task B를 학습했을 때 Task A의 성능이 얼마나 향상되었는지
-  - acc_A_after_B - acc_A_after_A
+    - acc_A_after_B - acc_A_after_A
+  - 이번 학습에서 성공한 정답이 이전 학습에서 실패한 경우, 이전과 이번의 차이를 비율로 계산해 누적한 뒤 평균
+    - (len(hit) - len(previous_hit)) / len(answer_pids)
 - Forget
   - Task B를 학습한 후 Task A의 성능이 얼마나 감소했는지
-  - acc_A_after_A - acc_A_after_B
+    - acc_A_after_A - acc_A_after_B
+  - 이전에 성공했던 정답이 이번에는 성공하지 못한 경우, 이전과 이번의 차이를 비율로 계산해 누적한 뒤 평균
+      - (len(previous_hit) - len(hit)) / len(answer_pids)
