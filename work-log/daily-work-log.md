@@ -18,4 +18,6 @@
 - RW분리하는 경우 어떻게 라우팅하는가?
   -  클라이언트 라이브러리 쿼리분석
   -  읽기와 쓰기 연산이 섞여 있는 경우?
-     - 트랜잭션으로 Primary 노드에서 처리. 순수한 읽기 요청만 Secondary로. ex) ProxySQL
+     - 트랜잭션으로 Primary 노드에서 처리. 순수한 읽기 요청만 Secondary로. 
+     - ex.ProxySQL(https://sg-choi.tistory.com/599)
+     - 샤딩, 파티셔닝, 복제 시 라우팅도 다 그렇게 하는군아 
