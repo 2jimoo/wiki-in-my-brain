@@ -22,3 +22,17 @@
 # River
 - Online처리 ML라이브러리
 - https://riverml.xyz/0.21.1/introduction/installation/
+
+
+# Pytorch and Tensor
+- norm
+  - 벡터의 크기
+- torch.topk 
+  - largest= False
+  - values, indice(batch, k) : 텐서, 행(배치)별 최대 k 인덱스들
+- dict에서 직접 키 순회하며 삭제하면 에러남, 키 복사 후 순회하면서 del
+- 단일값 텐서는 .item()으로 스칼라값 얻을 수 있음
+- 텐서(1, 768) N개 쌓기
+  - cat (N, 768)
+  - stack(N,1,768) 새로운 차원으로 쌓음
+- squeeze 차원 없애기 <-> unsqueese
