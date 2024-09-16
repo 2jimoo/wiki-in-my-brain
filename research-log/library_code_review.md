@@ -36,3 +36,20 @@
   - cat (N, 768)
   - stack(N,1,768) 새로운 차원으로 쌓음
 - squeeze 차원 없애기 <-> unsqueese
+
+# RuntimeError: one of the variables needed for gradient computation has been modified by an inplace operation
+- 왜 발생하는가
+  - backward propagation이 되면 안 되거나 필요 없는 텐서에까지 grad = True거나, 변경되면 안 되는 텐서가 변경됨.
+- 어떤 텐서만이 연산에 필요한가
+  - 모델 파라미터, 모델 아웃풋, 레이블 그 외는 연산그래프에서 제외해야함
+  - 그런데 requires_grad=True이면 다 포함되버림
+- 어떤 조치를 취할 수 있는가
+  - inplace 연산 제거
+  - detach vs clone
+    - detach는 연산그래프에서 제외되긴 하는데 원본 참조해서 원본 변경됨
+    - clone은 별도 메모리로 복사되긴 하는데 requires_grad까지 복사해가버림
+    - 값만 복사해서 별도 조작을 하고 싶다면 clone().detach()해서 전달해야함~
+- 연산 과정 어떻게 확인할 수 있는가
+  - 텐서의 grad_fn 속성 확인하기
+  - torchviz로 연산그래프 시각화하기
+  - backward 호출 수 loss의 grad 속성 확인하기
