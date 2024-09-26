@@ -21,3 +21,9 @@
      - 트랜잭션으로 Primary 노드에서 처리. 순수한 읽기 요청만 Secondary로. 
      - ex.ProxySQL(https://sg-choi.tistory.com/599)
      - 샤딩, 파티셔닝, 복제 시 라우팅도 다 그렇게 하는군아 
+
+
+# 2024.09.26
+- 공유 엔티티 동시 수정 문제
+  - 99% 무시
+  - version 필드를 where로 업데이트, 실패시 에러반환 정도
