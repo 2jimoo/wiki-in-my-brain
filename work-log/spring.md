@@ -3,7 +3,8 @@
   - WebMvcConfigurer
   - HttpMessageConverter
   - Jackson Serializer/Deserializer
-
+= Annotations
+  - Bean/Qualifier
 ---
 # Custom Req/Res Mapping
 ### 요약
@@ -43,3 +44,8 @@
   - **Converter<S, T>는 Spring의 타입 변환 API의 일부**
   - **Jackson은 좀 더 넓게 Json과 java 객체사이**
 - 컨트롤러에서 @RequestBody를 사용하여 자동으로 매핑된 객체를 처리
+
+---
+# Annotations
+### Bean/Qualifier
+- @Bean("A")로 생성 후 @Qualifier("A")를 통해 해당 Bean을 주입하여 사용할 수 있습니다.
