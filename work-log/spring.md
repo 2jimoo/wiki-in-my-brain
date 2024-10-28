@@ -3,7 +3,7 @@
   - WebMvcConfigurer
   - HttpMessageConverter
   - Jackson Serializer/Deserializer
-= Annotations
+- Annotations
   - Bean/Qualifier
 ---
 # Custom Req/Res Mapping
@@ -48,4 +48,8 @@
 ---
 # Annotations
 ### Bean/Qualifier
-- @Bean("A")로 생성 후 @Qualifier("A")를 통해 해당 Bean을 주입하여 사용할 수 있습니다.
+- @Bean("...")로 생성 후 @Qualifier("...")를 통해 해당 Bean을 주입하여 사용할 수 있습니다.
+### @ConditionalOnProperty(name = ..., havingValue = "...")
+- 특정 조건이 충족될 때만 빈(bean)을 생성
+- name명의 프로퍼티가 있는지를 확인합니다.
+- 그 프로퍼티의 값이 havingValue일 때만 해당 빈을 생성
