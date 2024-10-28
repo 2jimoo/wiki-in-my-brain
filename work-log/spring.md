@@ -3,8 +3,9 @@
   - WebMvcConfigurer
   - HttpMessageConverter
   - Jackson Serializer/Deserializer
-- Annotations
+- [Annotations](https://github.com/2jimoo/wiki-in-my-brain/blob/main/work-log/spring.md#annotations)
   - Bean/Qualifier
+  - ConditionalOnProperty
 ---
 # Custom Req/Res Mapping
 ### 요약
