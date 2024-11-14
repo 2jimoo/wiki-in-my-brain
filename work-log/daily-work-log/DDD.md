@@ -22,3 +22,7 @@
 
 # LifeCycle, Status
 - 위 조건 따진 후 action 수행
+
+# CorelationId, ControlMode
+- 작업 대상 조회시 위 조건으로 수행
+- Domain은 자동생성/매뉴얼 생성 후 시스템과의 매핑이 변할 수 있음(위 조건으로 안 나올 수 있단 소리)
