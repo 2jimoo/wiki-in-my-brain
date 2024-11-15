@@ -26,3 +26,9 @@
 # CorelationId, ControlMode
 - 작업 대상 조회시 위 조건으로 수행
 - Domain은 자동생성/매뉴얼 생성 후 시스템과의 매핑이 변할 수 있음(위 조건으로 안 나올 수 있단 소리)
+
+
+# Command/Query
+- Query/Command에서는 Optional을 사용안하는게 좋을거 같습니다.
+  - 왜냐하면 Validatior에서 처리를 못하고 때문에.정 필요시 @Nullable 어노테이션 정도
+- 일반 사용자가 해당 파라미터를직접 입력하여 조회할 일이 있는가? 허용되는가?
