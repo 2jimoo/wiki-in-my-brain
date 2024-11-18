@@ -22,7 +22,7 @@
 ## research-log
 - Unsupervised Contrastive learning via streaming clustering
     - Premilinaries
-      - Streaming Clustering
+      - Streaming/Evolutionary Clustering
         - [Data Stream Clustering: A Review](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/Data_Stream_Clustering_A_Review.md)
         - [FEAC-Stream](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/FEAC-Stream.md)
       - [Negative Sampling](https://github.com/2jimoo/wiki-in-my-brain/blob/main/research-log/Negative_Sampling.md)
@@ -65,7 +65,8 @@
     - MAML
 - Adaptation to Dynamic Corpus
     - IR Tutorial 2024 
-    - L^2R 
+    - L^2R
+- 머신러닝 엔지니어링 인 액션
 - etc.
     - The Impact of Data on AI Ethics
     - How might embedded AI impact human cohesion?
