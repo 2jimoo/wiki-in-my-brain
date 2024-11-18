@@ -29,15 +29,10 @@
         - Contrastive learning with hard negative samples
         - Conditional Negative Sampling for Contrastive Learning of Visual Representations
     - Ideation
-        - Flowchart
-            - logical
-            - code
     - Experiments
-        - Check robustness of Basis
-        - Design Settings
-        - Design Dataset
     - Papers
-- Retrospective and Feedbacks
+- Implement details
+- Feedbacks
         
         
 ## study-log
@@ -56,21 +51,19 @@
     - HTTP 완벽가이드 
 
 ### [machine-learning](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/machine-learning)
-- LLM Application
-    - Seminar
-    - OpenSource Contribution
-- Hallucination
-    - SelfCheckGPT
+- LLM
+    - Seminar/OpenSource Contribution
+    - Hallucination 
 - Reinforcement Learning
     - MAML
-- Adaptation to Dynamic Corpus
-    - IR Tutorial 2024 
-    - L^2R
-- 머신러닝 엔지니어링 인 액션
-- etc.
+- Information Retrieval
+    - Adaptation to Dynamic Corpus
+      - IR Tutorial 2024 
+      - L^2R
+- Etc.
     - The Impact of Data on AI Ethics
     - How might embedded AI impact human cohesion?
-    - python
+ 
     
 ### data
 - Datamesh
