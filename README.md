@@ -52,7 +52,8 @@
     - 켄트 벡의 TidyFirst?
 - [CS](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/backend/cs)
     - 컴퓨터 밑바닥의 비밀
-- HTTP 완벽가이드 
+- Web
+    - HTTP 완벽가이드 
 
 ### [machine-learning](https://github.com/2jimoo/wiki-in-my-brain/tree/main/study-log/machine-learning)
 - LLM Application
