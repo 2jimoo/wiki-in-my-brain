@@ -48,5 +48,5 @@
 - entity.model
   - service, event...
 - package-info.java
-  - 프로젝트 관리와 문서화
+  - 프로젝트 관리와 문서화(주석으로 javadoc html 생성)
   - 패키지 수준의 애너테이션 사용
