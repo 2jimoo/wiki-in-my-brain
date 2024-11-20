@@ -32,3 +32,21 @@
 - Query/Command에서는 Optional을 사용안하는게 좋을거 같습니다.
   - 왜냐하면 Validatior에서 처리를 못하고 때문에.정 필요시 @Nullable 어노테이션 정도
 - 일반 사용자가 해당 파라미터를직접 입력하여 조회할 일이 있는가? 허용되는가?
+
+
+# SystemCommand/Command/AdminCommand
+- Name = Id
+  - 자동 생성, 임의 생성
+  - 엔티티 종류 등의 prefix
+- 시스템은 Id기반 동작
+- 사용자로부터 Id 노출하지 않기위해 사용자용 커맨드는 Name으로 받고, 내부는 Id기반 동작
+
+# 패키지 구조
+- port
+  - in: Query, Command
+  - out: repository
+- entity.model
+  - service, event...
+- package-info.java
+  - 프로젝트 관리와 문서화
+  - 패키지 수준의 애너테이션 사용
