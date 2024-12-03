@@ -50,3 +50,8 @@
 - package-info.java
   - 프로젝트 관리와 문서화(주석으로 javadoc html 생성)
   - 패키지 수준의 애너테이션 사용
+ 
+# 기타
+- Action POST
+- Entity method 와 Entity service 간 파라미터 순서 맞추기
+- 동작 없어도 이벤트 수신하면 일단 event listener 메소드 생성
