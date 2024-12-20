@@ -62,4 +62,14 @@
 -  패키지 스캔 경로 지정: 리포지토리 인터페이스들이 위치한 패키지를 스캔하여 등록합니다.
   -  기본적으로 @SpringBootApplication이 위치한 패키지와 그 하위 패키지를 스캔하지만, 명시적으로 경로를 지정할 수도 있습니다.
 
-
+---
+# springBoot {buildInfo()}
+- Spring Boot Gradle 플러그인의 태스크로, 애플리케이션에 빌드 정보를 포함시키는 작업을 수행합니다.
+  - 빌드 타임: 애플리케이션이 빌드된 시간
+  - 버전: 프로젝트의 버전 (project.version)
+  - 그룹: 프로젝트의 그룹 (project.group)
+  - 이름: 프로젝트의 이름 (project.name)
+- Spring Boot 애플리케이션에서는 이 정보가 /actuator/info 엔드포인트를 통해 노출될 수 있습니다.
+  - spring.info.build.enabled: true 설정 필요
+- InfoContributor는 커스텀 정보를 추가할 때 사용하는 인터페이스입니다.
+  - 빈 등록해서 커스텀 endpoint로 노출가능
