@@ -73,3 +73,9 @@
   - spring.info.build.enabled: true 설정 필요
 - InfoContributor는 커스텀 정보를 추가할 때 사용하는 인터페이스입니다.
   - 빈 등록해서 커스텀 endpoint로 노출가능
+
+
+
+---
+# 여러 Config import해서 쓸 때 주의점
+- 다른 모듈의 @Componenet 정의된 거 import 안 되니까 꼭꼭 해당 Configuration class에서 @bean 정의하긔 ㅜㅜ
