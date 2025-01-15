@@ -70,8 +70,10 @@
 
 # CloudEvent 
 - 이벤트 종류는 엄청 많아질 수 있는데, 이벤트 버스 등이 제한적일 때
+- https://static.sched.com/hosted_files/kccncna19/87/KubeCon%20NA%202019%20CloudEvents.pdf?_gl=1*uv9ocl*_gcl_au*MjA2MDc4ODQ2Ny4xNzM2OTE0NDcy*FPAU*MjA2MDc4ODQ2Ny4xNzM2OTE0NDcy 
 
 # Anti-Corruption Layer
+- https://junhyunny.github.io/architecture/pattern/anti-corruption-layer-pattern/ 
 - 서로 다른 시스템(ex. 신규-레거시)간 통합해야할 때
 - 구성요소
   - Service : 새로운 시스템 쪽에 ACL 호출 API 제공
