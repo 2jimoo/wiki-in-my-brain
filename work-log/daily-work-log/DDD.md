@@ -55,3 +55,14 @@
 - Action POST
 - Entity method 와 Entity service 간 파라미터 순서 맞추기
 - 동작 없어도 이벤트 수신하면 일단 event listener 메소드 생성
+
+
+# Repository Pattern
+- DB 로직과 도메인 로직 사이 인터페이스
+- Service와 Repository pattern의 인터페이스는 Domain Entity로 통신함
+- Ex. Group, GroupMember Table이 별도로 있고 GroupRepository.update만 있을 때 GroupMember의 CUD 어떻게 반영?
+  - DB에서 조회하여 비교
+  - 전체 삭제 후 필요시 삽입
+  - 하이버네트와 같은 프레임워크 활용
+  - 발행한 이벤트 내 데이터로 diff 뜨기?
+  - 버저닝?
