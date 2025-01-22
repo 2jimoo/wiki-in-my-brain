@@ -7,6 +7,15 @@
   - Bean/Qualifier
   - ConditionalOnProperty
 ---
+# MongoDB Java Object
+- Spring MongoDB Template에서 class명 넣어줌
+  - 패키지명, 클래스명 바뀌면 자동으로 못 읽어옴
+  - 경고문 or 명시적 매핑 
+- Class -> Map ->JSON
+  - 종종 Json -> Map은 Json 규칙으로 이상해져서 안 될 때가 있음
+  - ex. bool isMember Boolean getIsMember 필드명
+ 
+    
 # Custom Req/Res Mapping
 ### 요약
   - Converter<S,T> : Java <-> Java
