@@ -27,3 +27,15 @@
 - post_logout_redirect_uri가 없이 로그아웃 요청이 오면?
   - 있는 거면 등록된 것중 해당 uri가 있는지 검사 후 리다이렉션
   - 클라이언트와 관련된 정보가 없거나 리다이렉트가 필요하지 않으면 IDP의 기본 로그아웃 완료 페이지를 보여줌. 
+
+
+
+# Spring Security /login
+- 존나 안 꺼짐, post_logout_redirect_uri 엔드포인트는 꼭 기본 설정 아닌 경로로..
+  - GET /logout 하면 Confirm page뜨고, 여기서 POST /logout하면 기본 리디렉션 페이지(/login?logout)로 감
+  - LogoutFilter는 스프링 기본 필터체인에 껴있어서 이 앞에 어떻게 필터를 껴넣을 수도 없다
+  - /logout 이 경로를 못 가로채게 할 수가 없다ㅜㅅㅂ
+- logoutHandler vs logoutSuccessHandler
+  - 세션 만료, 쿠키 삭제 등 로그아웃 동작
+  - 리디렉션 등 로그아웃 후 동작
+ 
