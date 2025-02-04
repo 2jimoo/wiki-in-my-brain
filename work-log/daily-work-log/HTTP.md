@@ -45,3 +45,8 @@
 - **별도 endpoint 사용시**
   - 기본적으로 POST 요구함,  리디렉션같이 GET인 경우 AntPathRequestMatcher 요청 매칭 필요
   - logoutSuccessHandler 등록한 게 호출됨, logoutHandler는 메소드 부터가 add(기본+@ 호출)
+ 
+# State를 이용한 client post redirect uri 리뷰
+- api-server -> auth-server 로 갈때는 state가 필요없고, 어디로 이동해야할지 정보인 postLogoutRedirectUri 만 전달
+- state파라미터는 클라이언트 애플리케이션의 상태를 유지하기 위해 사용
+- iris-auth-server 입장에서state 를 임의의 값으로 생성하고, 그 값을 이용하여 postLogoutRedirectUri를 저장한 다음. Logout 주소로 다시 돌아올때, state 값으로 저장된 postLogoutRedirectUri을 불러와서 이동
