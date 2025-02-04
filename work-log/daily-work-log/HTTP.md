@@ -41,5 +41,7 @@
 - **기본 필터를 갈아끼기 할 수는 있다**
   - addFilterAt으로.
   - 모든 체인에서 기존 login disable해야함
-  - logout disable 후 logout 설정하면 Logout 재활성됨 주의   
+  - logout disable 후 logout 설정하면 Logout 재활성됨 주의
+- **별도 endpoint 사용시**
+- 기본적으로 POST 요구함,  리디렉션같이 GET인 경우 AntPathRequestMatcher 요청 매칭 필요 
  
