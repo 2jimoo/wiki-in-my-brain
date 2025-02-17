@@ -52,3 +52,14 @@
 - iris-auth-server 입장에서state 를 임의의 값으로 생성하고, 그 값을 이용하여 postLogoutRedirectUri를 저장한 다음. Logout 주소로 다시 돌아올때, state 값으로 저장된 postLogoutRedirectUri을 불러와서 이동
 - state 없는 경우(잘못된 요청)
   - DEFAULT_REDIRECT_URL로 돌리기 보다는 return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("Invalid state parameter");
+
+
+# ResponseEntity vs. HttpServletResponse
+```
+ ResponseEntity.status(HttpStatus.FOUND)
+                                 .header(HttpHeaders.LOCATION, clientPostRedirectUri)
+                                 .build();
+ HttpServletResponse.sendRedirect(clientPostRedirectUri);
+```
+- Spring MVC 컨트롤러 처리 vs. 필터, 인터셉터 등 서블렛 처리
+- @ControllerAdvice 같은 Spring 예외 처리와 자연스럽게 연동, 테스트 용이 vs. 즉시 종료
