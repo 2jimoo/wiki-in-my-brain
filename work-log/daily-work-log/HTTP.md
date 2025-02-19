@@ -11,6 +11,10 @@
 - -v 또는 --verbose
   - 자세한 정보를 출력 
 
+# OIDC vs OAuth2
+- Oauth +@가 OIDC
+- Access Token(권한관리)뿐 아니라 Id Token(사용자 인증) 수행
+
 
 # OIDC RP-Initiated logout
 - 클라이언트(Relying Party, RP)가 사용자를 로그아웃시킬 때 Identity Provider(IdP)에 로그아웃 요청을 시작하는 방식
