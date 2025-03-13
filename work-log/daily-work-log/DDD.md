@@ -1,5 +1,11 @@
 # DDD
-(Actor)Command, External System, Policy -> DomainEvent -> Policy -> EventHandler/Command..
+- (Actor)Command, External System, Policy -> DomainEvent -> Policy -> EventHandler/Command..
+- ValueObject, Aggregate
+  - IF - Abstract - Concrete
+- Result pattern, Repository pattern, Constract pattern
+  - of, from
+  - Domain Service에서는 CUD안 함(Application Service에서 함)
+  - Validator, ErrorCode 따로 관리
 
 # @TransactionalEventListener
 - 트랜잭션에 포함된 이벤트 발행이 트랜잭션과 함께 롤백되길 바랄 때..
