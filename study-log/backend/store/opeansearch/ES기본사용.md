@@ -10,7 +10,7 @@
  
 # 기본 조작
 - PUT
-  - 문서 생성
+  - 문서 생성, _bulk
 ```
 PUT /my-index/_doc/1
 {
@@ -19,6 +19,13 @@ PUT /my-index/_doc/1
   "job": "developer",
   "created_at": "2024-05-14"
 }
+
+POST /my-index/_bulk
+{ "index": { "_id": "2" } }
+{ "name": "Bob", "age": 25, "job": "designer" }
+{ "index": { "_id": "3" } }
+{ "name": "Charlie", "age": 35, "job": "manager" }
+
 ```
 - GET
   - _count, GET <index>/_doc/<id>, _search, _bulk
@@ -31,13 +38,6 @@ GET /my-index/_count
     "match_all": {}
   }
 }
-
-POST /my-index/_bulk
-{ "index": { "_id": "2" } }
-{ "name": "Bob", "age": 25, "job": "designer" }
-{ "index": { "_id": "3" } }
-{ "name": "Charlie", "age": 35, "job": "manager" }
-
 ```
 
 # 검색 조건
