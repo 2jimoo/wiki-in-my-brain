@@ -224,3 +224,8 @@ GET /my-index/_search
   }
 }
 ```
+
+
+
+# DQL
+- DB들의 sql 문법 추상화, 공통 SQL 문법 느낌
