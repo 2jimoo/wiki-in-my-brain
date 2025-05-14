@@ -11,6 +11,15 @@
 # 기본 조작
 - PUT
   - 문서 생성
+```
+PUT /my-index/_doc/1
+{
+  "name": "Alice",
+  "age": 30,
+  "job": "developer",
+  "created_at": "2024-05-14"
+}
+```
 - GET
   - _count, GET <index>/_doc/<id>, _search, _bulk
 
